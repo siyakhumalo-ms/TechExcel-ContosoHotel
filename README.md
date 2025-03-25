@@ -1,7 +1,8 @@
 # ![Contoso Hotel Icon](contoso_hotel/static/favicons/favicon-32x32.png) Contoso Hotel Demo in Python
 
 This is a Demo Application for internal Booking Management of Contoso Hotel. It supports MSSQL and PostgreSQL databases and offers Rest APIs for integration into the larger IT landscape of Contoso Hotel.
-
+https://microsoft.github.io/TechExcel-Modernize-applications-to-be-AI-ready/Docs/Ex02/0201.html
+https://rise.articulate.com/share/vqdL_-ZoLawZN1DAZMkHIoBqhbp1mC6y#/
 ![Contoso Hotel Screenshot](contoso_hotel.jpg)
 
 ## Setting up a test database
